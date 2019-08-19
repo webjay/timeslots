@@ -1,7 +1,7 @@
 {
   "name": "timeslots",
   "version": "1.0.0",
-  "description": "Find availability in date ranges",
+  "description": "Find availability around events",
   "main": "index.js",
   "author": "Jacob Friis Saxberg",
   "license": "MIT",
@@ -11,7 +11,12 @@
     "eslint-plugin-import": "2.18.2",
     "mocha": "6.2.0"
   },
+  "engines": {
+    "node": ">= 4.9.1"
+  },
   "scripts": {
     "test": "mocha"
-  }
+  },
+  "repository": "https://github.com/webjay/timeslots.git",
+  "private": false
 }
