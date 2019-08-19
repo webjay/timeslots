@@ -1,0 +1,17 @@
+{
+  "name": "timeslots",
+  "version": "1.0.0",
+  "description": "Find availability in date ranges",
+  "main": "index.js",
+  "author": "Jacob Friis Saxberg",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "6.2.0",
+    "eslint-config-airbnb-base": "14.0.0",
+    "eslint-plugin-import": "2.18.2",
+    "mocha": "6.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
