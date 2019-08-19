@@ -1,6 +1,8 @@
-# timeslots
+# timeslot-availability
 
 Find availability around events
+
+    npm install timeslot-availability
 
 Given events, which it will merge, it will find availability in a timeframe.
 

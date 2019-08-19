@@ -1,6 +1,6 @@
 {
-  "name": "timeslots",
-  "version": "1.0.0",
+  "name": "timeslot-availability",
+  "version": "1.0.1",
   "description": "Find availability around events",
   "main": "index.js",
   "author": "Jacob Friis Saxberg",
