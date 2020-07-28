@@ -1,6 +1,6 @@
 {
   "name": "timeslot-availability",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Find availability around events",
   "main": "index.js",
   "author": "Jacob Friis Saxberg",
@@ -18,5 +18,11 @@
     "test": "mocha"
   },
   "repository": "https://github.com/webjay/timeslots.git",
-  "private": false
+  "private": false,
+  "keywords": [
+    "calendar",
+    "timeslot",
+    "scheduling",
+    "schedule"
+  ]
 }
