@@ -1,4 +1,4 @@
-const availability = require('./');
+const availability = require('.');
 
 const start = new Date('2019-08-08T08:00:00.000Z');
 const end = new Date('2019-08-08T16:00:00.000Z');
